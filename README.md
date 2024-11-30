@@ -34,6 +34,12 @@ I'm most known as of current for developing the [Genshin Instrumens](https://www
 ### Tools
 [![Tools](https://go-skill-icons.vercel.app/api/icons?i=gimp,davinci)](https://skillicons.dev)
 
+## Frequently Asked Questions
+
+> When was the last time you touched grass?
+
+Good question. You see-
+
 <!--
 **StavWasPlayZ/stavwasplayz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
