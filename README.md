@@ -7,32 +7,32 @@ I'm most known as of current for developing the [Genshin Instrumens](https://www
 ## Cool icons I associate with
 
 ### Programming Languages
-[![Languages](https://go-skill-icons.vercel.app/api/icons?i=kotlin,java,py,coffeescript,dart,visualbasic,asm)](https://skillicons.dev)
+![Languages](https://go-skill-icons.vercel.app/api/icons?i=kotlin,java,py,coffeescript,dart,visualbasic,asm)
 <br/>
-[![Languages](https://go-skill-icons.vercel.app/api/icons?i=cs,cpp,c)](https://skillicons.dev)
+![Languages](https://go-skill-icons.vercel.app/api/icons?i=cs,cpp,c)
 <br/>
-[![Languages](https://go-skill-icons.vercel.app/api/icons?i=html,css,js)](https://skillicons.dev)
+![Languages](https://go-skill-icons.vercel.app/api/icons?i=html,css,js)
 <!--
 
 [![Languages](https://go-skill-icons.vercel.app/api/icons?i=kotlin,java,cs,cpp,c,coffeescript,py,js,html,css,dart,visualbasic,asm&perline=7)](https://skillicons.dev)-->
 
 ### Frameworks
-[![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=jetpackcompose,flutter,unity,nodejs,processing,arduino,bots)](https://skillicons.dev)
+![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=jetpackcompose,flutter,unity,nodejs,processing,arduino,bots)
 
 ### IDEs
-[![IDEs](https://go-skill-icons.vercel.app/api/icons?i=visualstudio,vscode,idea,androidstudio,eclipse)](https://skillicons.dev)
+![IDEs](https://go-skill-icons.vercel.app/api/icons?i=visualstudio,vscode,idea,androidstudio,eclipse)
 
 ### Linux my beloved
-[![Linux](https://go-skill-icons.vercel.app/api/icons?i=linux,bash,wsl,docker)](https://skillicons.dev)
+![Linux](https://go-skill-icons.vercel.app/api/icons?i=linux,bash,wsl,docker)
 
 ### Server Stuff
-[![Server stuff](https://go-skill-icons.vercel.app/api/icons?i=virtualbox,mysql,sqlite)](https://skillicons.dev)
+![Server stuff](https://go-skill-icons.vercel.app/api/icons?i=virtualbox,mysql,sqlite)
 
 ### Other
-[![Other](https://go-skill-icons.vercel.app/api/icons?i=gradle,git,regex)](https://skillicons.dev)
+![Other](https://go-skill-icons.vercel.app/api/icons?i=gradle,git,regex)
 
 ### Tools
-[![Tools](https://go-skill-icons.vercel.app/api/icons?i=gimp,davinci)](https://skillicons.dev)
+![Tools](https://go-skill-icons.vercel.app/api/icons?i=gimp,davinci)
 
 ## Frequently Asked Questions
 
