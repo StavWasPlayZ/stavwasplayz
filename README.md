@@ -6,18 +6,32 @@ I'm most known as of current for developing the [Genshin Instrumens](https://www
 
 ## Cool icons I associate with
 
-[![Languages](https://go-skill-icons.vercel.app/api/icons?i=kotlin,java,cs,cpp,c,coffeescript,py,js,html,css,dart,visualbasic,asm)](https://skillicons.dev)
+### Programming Languages
+[![Languages](https://go-skill-icons.vercel.app/api/icons?i=kotlin,java,py,coffeescript,dart,visualbasic,asm)](https://skillicons.dev)
 <br/>
+[![Languages](https://go-skill-icons.vercel.app/api/icons?i=cs,cpp,c)](https://skillicons.dev)
+<br/>
+[![Languages](https://go-skill-icons.vercel.app/api/icons?i=html,css,js)](https://skillicons.dev)
+<!--
+
+[![Languages](https://go-skill-icons.vercel.app/api/icons?i=kotlin,java,cs,cpp,c,coffeescript,py,js,html,css,dart,visualbasic,asm&perline=7)](https://skillicons.dev)-->
+
+### Frameworks
 [![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=flutter,jetpackcompose,nodejs,unity,processing,arduino,bots)](https://skillicons.dev)
-<br/>
+
+### IDEs
 [![IDEs](https://go-skill-icons.vercel.app/api/icons?i=visualstudio,vscode,idea,androidstudio,eclipse)](https://skillicons.dev)
-<br/>
-[![Linux](https://go-skill-icons.vercel.app/api/icons?i=linux,bash,wsl,docker,git)](https://skillicons.dev)
-<br/>
+
+### Linux my beloved
+[![Linux](https://go-skill-icons.vercel.app/api/icons?i=linux,bash,wsl,docker)](https://skillicons.dev)
+
+### Server Stuff
 [![Server stuff](https://go-skill-icons.vercel.app/api/icons?i=virtualbox,mysql,sqlite)](https://skillicons.dev)
-<br/>
-[![Other](https://go-skill-icons.vercel.app/api/icons?i=gradle,regex)](https://skillicons.dev)
-<br/><br/>
+
+### Other
+[![Other](https://go-skill-icons.vercel.app/api/icons?i=gradle,git,regex)](https://skillicons.dev)
+
+### Tools
 [![Tools](https://go-skill-icons.vercel.app/api/icons?i=gimp,davinci)](https://skillicons.dev)
 
 <!--
