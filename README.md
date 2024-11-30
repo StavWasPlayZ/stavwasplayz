@@ -6,15 +6,19 @@ I'm most known as of current for developing the [Genshin Instrumens](https://www
 
 ## Cool icons I associate with
 
-[![Languages](https://skillicons.dev/icons?i=kotlin,java,cs,cpp,c,coffeescript,py,arduino,js,html,css,dart)](https://skillicons.dev)
+[![Languages](https://go-skill-icons.vercel.app/api/icons?i=kotlin,java,cs,cpp,c,coffeescript,py,js,html,css,dart,visualbasic,asm)](https://skillicons.dev)
 <br/>
-[![Frameworks](https://skillicons.dev/icons?i=flutter,androidstudio,nodejs,bots)](https://skillicons.dev)
+[![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=flutter,jetpackcompose,nodejs,unity,processing,arduino,bots)](https://skillicons.dev)
 <br/>
-[![IDEs](https://skillicons.dev/icons?i=visualstudio,vscode,idea,eclipse)](https://skillicons.dev)
+[![IDEs](https://go-skill-icons.vercel.app/api/icons?i=visualstudio,vscode,idea,androidstudio,eclipse)](https://skillicons.dev)
 <br/>
-[![Linux](https://skillicons.dev/icons?i=linux,bash,docker,git)](https://skillicons.dev)
+[![Linux](https://go-skill-icons.vercel.app/api/icons?i=linux,bash,wsl,docker,git)](https://skillicons.dev)
 <br/>
-[![Other](https://skillicons.dev/icons?i=gradle,mysql,sqlite,regex)](https://skillicons.dev)
+[![Server stuff](https://go-skill-icons.vercel.app/api/icons?i=virtualbox,mysql,sqlite)](https://skillicons.dev)
+<br/>
+[![Other](https://go-skill-icons.vercel.app/api/icons?i=gradle,regex)](https://skillicons.dev)
+<br/><br/>
+[![Tools](https://go-skill-icons.vercel.app/api/icons?i=gimp,davinci)](https://skillicons.dev)
 
 <!--
 **StavWasPlayZ/stavwasplayz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
