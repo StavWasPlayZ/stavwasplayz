@@ -17,7 +17,7 @@ I'm most known as of current for developing the [Genshin Instrumens](https://www
 [![Languages](https://go-skill-icons.vercel.app/api/icons?i=kotlin,java,cs,cpp,c,coffeescript,py,js,html,css,dart,visualbasic,asm&perline=7)](https://skillicons.dev)-->
 
 ### Frameworks
-[![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=flutter,jetpackcompose,nodejs,unity,processing,arduino,bots)](https://skillicons.dev)
+[![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=jetpackcompose,flutter,unity,nodejs,processing,arduino,bots)](https://skillicons.dev)
 
 ### IDEs
 [![IDEs](https://go-skill-icons.vercel.app/api/icons?i=visualstudio,vscode,idea,androidstudio,eclipse)](https://skillicons.dev)
