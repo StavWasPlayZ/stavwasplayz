@@ -22,11 +22,11 @@ I'm most known as of current for developing the [Genshin Instrumens](https://www
 ### IDEs
 ![IDEs](https://go-skill-icons.vercel.app/api/icons?i=visualstudio,vscode,idea,androidstudio,eclipse)
 
-### Linux my beloved
-![Linux](https://go-skill-icons.vercel.app/api/icons?i=linux,bash,wsl,docker)
-
 ### Server Stuff
-![Server stuff](https://go-skill-icons.vercel.app/api/icons?i=virtualbox,mysql,sqlite)
+![Server stuff](https://go-skill-icons.vercel.app/api/icons?i=virtualbox,mysql,sqlite,docker)
+
+### Linux my beloved
+![Linux](https://go-skill-icons.vercel.app/api/icons?i=linux,bash,wsl)
 
 ### Other
 ![Other](https://go-skill-icons.vercel.app/api/icons?i=gradle,git,regex)
