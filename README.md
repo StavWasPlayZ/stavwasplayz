@@ -12,21 +12,20 @@ I'm most known as of current for developing the [Genshin Instrumens](https://www
 ![Languages](https://go-skill-icons.vercel.app/api/icons?i=cs,cpp,c)
 <br/>
 ![Languages](https://go-skill-icons.vercel.app/api/icons?i=html,css,js)
-<!--
-
-[![Languages](https://go-skill-icons.vercel.app/api/icons?i=kotlin,java,cs,cpp,c,coffeescript,py,js,html,css,dart,visualbasic,asm&perline=7)](https://skillicons.dev)-->
 
 ### Frameworks
 ![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=jetpackcompose,flutter,unity,nodejs,processing,avaloniaui,arduino,bots)
-
-### IDEs
-![IDEs](https://go-skill-icons.vercel.app/api/icons?i=visualstudio,vscode,idea,androidstudio,eclipse)
 
 ### Server Stuff
 ![Server stuff](https://go-skill-icons.vercel.app/api/icons?i=virtualbox,mysql,sqlite,docker)
 
 ### Linux my beloved
 ![Linux](https://go-skill-icons.vercel.app/api/icons?i=linux,bash,wsl)
+
+### IDEs
+![IDEs](https://go-skill-icons.vercel.app/api/icons?i=visualstudio,vscode,eclipse)
+<br/>
+![IDEs](https://go-skill-icons.vercel.app/api/icons?i=idea,rider,androidstudio)
 
 ### Other
 ![Other](https://go-skill-icons.vercel.app/api/icons?i=gradle,git,regex)
