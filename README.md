@@ -28,7 +28,7 @@ I'm most known as of current for developing the [Genshin Instrumens](https://www
 ![IDEs](https://go-skill-icons.vercel.app/api/icons?i=idea,rider,androidstudio)
 
 ### Other
-![Other](https://go-skill-icons.vercel.app/api/icons?i=gradle,git,regex)
+![Other](https://go-skill-icons.vercel.app/api/icons?i=gradle,git,regex,json)
 
 ### Tools
 ![Tools](https://go-skill-icons.vercel.app/api/icons?i=gimp,davinci)
