@@ -43,7 +43,7 @@ I'm most known as of current for developing the [Genshin Instrumens](https://www
   A free canvas for laying out and measuring lines, points & their connections.
 - #### [NodeJS Web Server from Scratch](https://github.com/StavWasPlayZ/triangles)
   ![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=nodejs,sqlserver,html,css,js)  
-  This project implements a NodeJS web server using only the `ejs`, `mssql` and the built-in NodeJS `http` packages.
+  Implements a NodeJS web server using only the `ejs`, `mssql` and the built-in NodeJS `http` packages.
 
 ### Java
 - #### Minecraft Modding
