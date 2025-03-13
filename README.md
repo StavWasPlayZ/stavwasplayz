@@ -41,7 +41,7 @@ I'm most known as of current for developing the [Genshin Instrumens](https://www
 - #### [Triangles](https://github.com/StavWasPlayZ/triangles)
   ![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=html,css,js)  
   A free canvas for laying out and measuring lines, points & their connections.
-- #### [NodeJS Web Server from Scratch](https://github.com/StavWasPlayZ/triangles)
+- #### [NodeJS Web Server from Scratch](https://github.com/StavWasPlayZ/nodejs-server-from-scratch)
   ![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=nodejs,sqlserver,html,css,js)  
   Implements a NodeJS web server using only the `ejs`, `mssql` and the built-in NodeJS `http` packages.
 
