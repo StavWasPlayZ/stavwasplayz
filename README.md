@@ -27,8 +27,11 @@ I'm most known as of current for developing the [Genshin Instrumens](https://www
 <br/>
 ![IDEs](https://go-skill-icons.vercel.app/api/icons?i=idea,rider,androidstudio)
 
+### Build Tools
+![Built Tools](https://go-skill-icons.vercel.app/api/icons?i=gradle,cmake)
+
 ### Other
-![Other](https://go-skill-icons.vercel.app/api/icons?i=gradle,git,regex,json)
+![Other](https://go-skill-icons.vercel.app/api/icons?i=git,regex,json)
 
 ### Tools
 ![Tools](https://go-skill-icons.vercel.app/api/icons?i=gimp,davinci)
@@ -36,18 +39,18 @@ I'm most known as of current for developing the [Genshin Instrumens](https://www
 ## Notable Projects 🚧👷‍♂️
 ### Web
 - #### [The Juicy Forum Site](https://github.com/StavWasPlayZ/juicy-forum-site)  
-  ![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=dotnet,cs,css,js)  
+  ![Skills Used](https://go-skill-icons.vercel.app/api/icons?i=dotnet,cs,css,js)  
   My project for the Bagrut of Computer Science Web project, 2022.
 - #### [Triangles](https://github.com/StavWasPlayZ/triangles)
-  ![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=html,css,js)  
+  ![Skills Used](https://go-skill-icons.vercel.app/api/icons?i=html,css,js)  
   A free canvas for laying out and measuring lines, points & their connections.
 - #### [NodeJS Web Server from Scratch](https://github.com/StavWasPlayZ/nodejs-server-from-scratch)
-  ![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=nodejs,sqlserver,html,css,js)  
+  ![Skills Used](https://go-skill-icons.vercel.app/api/icons?i=nodejs,sqlserver,html,css,js)  
   Implements a NodeJS web server using only the `ejs`, `mssql` and the built-in NodeJS `http` packages.
 
 ### Java
 - #### Minecraft Modding
-  ![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=java,gradle,json)  
+  ![Skills Used](https://go-skill-icons.vercel.app/api/icons?i=java,gradle,json)  
   All of my Minecraft mods have all thus far been centered around music and instruments in general.
 
   These are the [Genshin Instrumens](https://github.com/StavWasPlayZ/Genshin-Instruments) and [Even More Instruments!](https://github.com/StavWasPlayZ/Even-More-Instruments) mods,
@@ -55,10 +58,21 @@ I'm most known as of current for developing the [Genshin Instrumens](https://www
   
   For the Boomers alike - Minecraft modding requires extensive knowledge of Minecraft as a game, its API (a shamelessly unorganized mess of jumble), as well as the providing community-driven modding APIs.
 
+### Avalonia UI
+- #### [Chess—Frontend](https://github.com/StavWasPlayZ/chess-frontend)  
+  ![Skills Used](https://go-skill-icons.vercel.app/api/icons?i=avaloniaui,cs,dotnet,windows,linux)  
+  A cross-platform, [Chess.com](https://chess.com/)-like GUI serving as a frontend to the [Chess Backend](https://github.com/StavWasPlayZ/chess-backend).
+
+### C++
+- #### [Chess—Backend](https://github.com/StavWasPlayZ/chess-backend)  
+  ![Skills Used](https://go-skill-icons.vercel.app/api/icons?i=cpp,cmake,windows,linux)  
+  A cross-platform move validator serving as a backend to the [Chess Frontend](https://github.com/StavWasPlayZ/chess-frontend).
+
+
 ### Linux
 - #### [Custom Fedora Scripts](https://github.com/StavWasPlayZ/custom_fedora_scripts)
-  ![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=linux,bash)  
-  Random scripts that make my life a bit more easier over on my personal computer.
+  ![Skills Used](https://go-skill-icons.vercel.app/api/icons?i=linux,bash)  
+  Custom utility scripts I seldom use on my personal computer.
   
 
 ## Frequently Asked Questions
@@ -66,18 +80,3 @@ I'm most known as of current for developing the [Genshin Instrumens](https://www
 > When was the last time you touched grass?
 
 Good question. You see-
-
-<!--
-**StavWasPlayZ/stavwasplayz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
