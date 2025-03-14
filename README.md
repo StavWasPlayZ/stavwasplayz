@@ -40,7 +40,7 @@ I'm most known as of current for developing the [Genshin Instrumens](https://www
 ### Web
 - #### [The Juicy Forum Site](https://github.com/StavWasPlayZ/juicy-forum-site)  
   ![Skills Used](https://go-skill-icons.vercel.app/api/icons?i=dotnet,cs,css,js)  
-  My project for the Bagrut of Computer Science Web project, 2022.
+  My submission for the Bagrut of Computer Science Web project, 2022.
 - #### [Triangles](https://github.com/StavWasPlayZ/triangles)
   ![Skills Used](https://go-skill-icons.vercel.app/api/icons?i=html,css,js)  
   A free canvas for laying out and measuring lines, points & their connections.
