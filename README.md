@@ -14,7 +14,9 @@ I'm most known as of current for developing the [Genshin Instrumens](https://www
 ![Languages](https://go-skill-icons.vercel.app/api/icons?i=html,css,js)
 
 ### Frameworks
-![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=jetpackcompose,flutter,unity,nodejs,processing,dotnet,avaloniaui,arduino,bots)
+![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=jetpackcompose,flutter,unity,nodejs,processing,dotnet,avaloniaui,bots,arduino)
+<br/>
+![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=fabricmc,forgemc,neoforge)
 
 ### Server Stuff
 ![Server stuff](https://go-skill-icons.vercel.app/api/icons?i=virtualbox,mysql,sqlserver,sqlite,docker)
@@ -50,7 +52,7 @@ I'm most known as of current for developing the [Genshin Instrumens](https://www
 
 ### Java
 - #### Minecraft Modding
-  ![Skills Used](https://go-skill-icons.vercel.app/api/icons?i=java,gradle,json)  
+  ![Skills Used](https://go-skill-icons.vercel.app/api/icons?i=java,gradle,forgemc,fabricmc,neoforge)  
   All of my Minecraft mods have all thus far been centered around music and instruments in general.
 
   These are the [Genshin Instrumens](https://github.com/StavWasPlayZ/Genshin-Instruments) and [Even More Instruments!](https://github.com/StavWasPlayZ/Even-More-Instruments) mods,
