@@ -18,7 +18,7 @@ I'm most known as of current for developing the [Genshin Instrumens](https://www
 <br/>
 ![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=fabricmc,forgemc,neoforge)
 
-### Server Stuff
+### Server stuff
 ![Server stuff](https://go-skill-icons.vercel.app/api/icons?i=virtualbox,mysql,sqlserver,sqlite,docker)
 
 ### Linux my beloved
