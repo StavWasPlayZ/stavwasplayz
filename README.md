@@ -14,15 +14,15 @@ I'm most known as of current for developing the [Genshin Instrumens](https://www
 ![Languages](https://go-skill-icons.vercel.app/api/icons?i=html,css,js)
 
 ### Frameworks
-![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=jetpackcompose,flutter,unity,nodejs,processing,dotnet,avaloniaui,bots,arduino)
+![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=jetpackcompose,flutter,unity,nodejs,processing,dotnet,avaloniaui,discordbots,arduino)
 <br/>
 ![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=fabricmc,forgemc,neoforge)
 
-### Server stuff
+### Servers stuff
 ![Server stuff](https://go-skill-icons.vercel.app/api/icons?i=virtualbox,mysql,sqlserver,sqlite,docker)
 
 ### Linux my beloved
-![Linux](https://go-skill-icons.vercel.app/api/icons?i=linux,bash,wsl)
+![Linux](https://go-skill-icons.vercel.app/api/icons?i=linux,bash,wsl,fedora,debian)
 
 ### IDEs
 ![IDEs](https://go-skill-icons.vercel.app/api/icons?i=visualstudio,vscode,eclipse)
@@ -32,11 +32,11 @@ I'm most known as of current for developing the [Genshin Instrumens](https://www
 ### Build Tools
 ![Built Tools](https://go-skill-icons.vercel.app/api/icons?i=gradle,cmake)
 
-### Other
-![Other](https://go-skill-icons.vercel.app/api/icons?i=git,regex,json)
+### Others
+![Other](https://go-skill-icons.vercel.app/api/icons?i=git,json,regex)
 
 ### Tools
-![Tools](https://go-skill-icons.vercel.app/api/icons?i=gimp,davinci)
+![Tools](https://go-skill-icons.vercel.app/api/icons?i=gimp,davinci,figma,wireshark)
 
 ## Notable Projects 🚧👷‍♂️
 ### Web
