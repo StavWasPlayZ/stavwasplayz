@@ -30,10 +30,11 @@ I'm most known as of current for developing the [Genshin Instrumens](https://www
 ![IDEs](https://go-skill-icons.vercel.app/api/icons?i=idea,clion,rider,androidstudio)
 
 ### Build Tools
-![Built Tools](https://go-skill-icons.vercel.app/api/icons?i=gradle,cmake)
+![Build Tools](https://go-skill-icons.vercel.app/api/icons?i=gradle,cmake)
 
 ### Others
-![Other](https://go-skill-icons.vercel.app/api/icons?i=git,json,regex)
+![Other](https://go-skill-icons.vercel.app/api/icons?i=json,regex)  
+![Git](https://go-skill-icons.vercel.app/api/icons?i=git,github,gitlab)
 
 ### Tools
 ![Tools](https://go-skill-icons.vercel.app/api/icons?i=gimp,davinci,figma,wireshark)
@@ -61,11 +62,17 @@ I'm most known as of current for developing the [Genshin Instrumens](https://www
   For the Boomers alike - Minecraft modding requires extensive knowledge of Minecraft as a game, its API (a shamelessly unorganized mess of jumble), as well as the providing community-driven modding APIs.
 
 ### Avalonia UI
+- #### [Trome](https://github.com/StavWasPlayZ/Trome)  
+  ![Skills Used](https://go-skill-icons.vercel.app/api/icons?i=avaloniaui,cs,dotnet,cpp,windows,linux,cmake,mongodb,sqlite,gitlab,figma)  
+  A cross-platform Trivia game with immense emphasis on MVVM patterns.
 - #### [Chess—Frontend](https://github.com/StavWasPlayZ/chess-frontend)  
   ![Skills Used](https://go-skill-icons.vercel.app/api/icons?i=avaloniaui,cs,dotnet,windows,linux)  
   A cross-platform, [Chess.com](https://chess.com/)-like GUI serving as a frontend to the [Chess Backend](https://github.com/StavWasPlayZ/chess-backend).
 
 ### C++
+- #### [Trome](https://github.com/StavWasPlayZ/Trome)  
+  ![Skills Used](https://go-skill-icons.vercel.app/api/icons?i=avaloniaui,cs,dotnet,cpp,windows,linux,cmake,mongodb,sqlite,gitlab,figma)  
+  A cross-platform Trivia game with immense emphasis on MVVM patterns.
 - #### [Chess—Backend](https://github.com/StavWasPlayZ/chess-backend)  
   ![Skills Used](https://go-skill-icons.vercel.app/api/icons?i=cpp,cmake,windows,linux)  
   A cross-platform move validator serving as a backend to the [Chess Frontend](https://github.com/StavWasPlayZ/chess-frontend).
