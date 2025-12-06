@@ -64,7 +64,7 @@ I'm most known as of current for developing the [Genshin Instrumens](https://www
 ### Avalonia UI
 - #### [Trome](https://github.com/StavWasPlayZ/Trome)  
   ![Skills Used](https://go-skill-icons.vercel.app/api/icons?i=avaloniaui,cs,dotnet,cpp,windows,linux,cmake,mongodb,sqlite,gitlab,figma)  
-  A cross-platform Trivia game with immense emphasis on MVVM patterns. Co-created with [Itay-He](https://github.com/Itay-He).
+  A cross-platform Trivia game with immense emphasis on MVVM and Reactive patterns. Co-created with [Itay-He](https://github.com/Itay-He).
 - #### [Chess—Frontend](https://github.com/StavWasPlayZ/chess-frontend)  
   ![Skills Used](https://go-skill-icons.vercel.app/api/icons?i=avaloniaui,cs,dotnet,windows,linux)  
   A cross-platform, [Chess.com](https://chess.com/)-like GUI serving as a frontend to the [Chess Backend](https://github.com/StavWasPlayZ/chess-backend).
