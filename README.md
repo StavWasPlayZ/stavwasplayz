@@ -31,6 +31,9 @@ I'm most known as of current for developing the [Genshin Instrumens](https://www
 
 ### Build Tools
 ![Build Tools](https://go-skill-icons.vercel.app/api/icons?i=gradle,cmake)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg" height="45" alt="GCC" />
+<br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuget/nuget-original.svg" height="45" alt="nuget"/>
 
 ### Others
 ![Other](https://go-skill-icons.vercel.app/api/icons?i=json,regex)  
