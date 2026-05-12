@@ -2,7 +2,7 @@
 
 My name's Stav, and I do random stuff that interest me at some given point.
 
-I'm most known as of current for developing the [Genshin Instrumens](https://www.curseforge.com/minecraft/mc-mods/genshin-instruments) and [Even More Instruments](https://www.curseforge.com/minecraft/mc-mods/even-more-instruments) mods for Minecraft Java!
+I'm most known as of current for developing the [Genshin Instruments](https://www.curseforge.com/minecraft/mc-mods/genshin-instruments) and [Even More Instruments](https://www.curseforge.com/minecraft/mc-mods/even-more-instruments) mods for Minecraft Java!
 
 ## Cool icons I associate with
 
