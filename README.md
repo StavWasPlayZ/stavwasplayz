@@ -16,26 +16,27 @@ I'm most known as of current for developing the [Genshin Instruments](https://ww
 ![Languages](https://raw.githubusercontent.com/Codesh-Organization-Foundation-Inc/Codesh-Compiler/refs/heads/main/public/codesh_skillicon.svg)
 
 ### Frameworks
-![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=jetpackcompose,flutter,unity,nodejs,processing,dotnet,avaloniaui,discordbots,arduino)
+![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=jetpackcompose,flutter,unity,nodejs,react,processing,dotnet,avaloniaui,discordbots,arduino)
 <br/>
 ![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=fabricmc,forgemc,neoforge)
 
 ### Servers stuff
-![Server stuff](https://go-skill-icons.vercel.app/api/icons?i=virtualbox,mysql,sqlserver,mongodb,sqlite,docker)
+![Server stuff](https://go-skill-icons.vercel.app/api/icons?i=virtualbox,mysql,sqlserver,gcp,cloudflare,mongodb,sqlite,docker)
 
 ### Linux my beloved
-![Linux](https://go-skill-icons.vercel.app/api/icons?i=linux,bash,wsl,fedora,debian)
+![Linux](https://go-skill-icons.vercel.app/api/icons?i=linux,bash,wsl,fedora,debian,omarchy)
 
 ### IDEs
-![IDEs](https://go-skill-icons.vercel.app/api/icons?i=visualstudio,vscode,eclipse)
+![IDEs](https://go-skill-icons.vercel.app/api/icons?i=visualstudio,vscode,neovim,eclipse)
 <br/>
-![IDEs](https://go-skill-icons.vercel.app/api/icons?i=idea,clion,rider,androidstudio)
+![IDEs](https://go-skill-icons.vercel.app/api/icons?i=idea,clion,rider,webstorm,androidstudio)
 
 ### Build Tools
 ![Build Tools](https://go-skill-icons.vercel.app/api/icons?i=gradle,cmake)
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg" height="45" alt="GCC" />
-<br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuget/nuget-original.svg" height="45" alt="nuget"/>
+
+#### Package Managers
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuget/nuget-original.svg" height="45" alt="nuget"/> <img src="https://d-data.ro/wp-content/uploads/2023/05/vcpkg-is-now-included-with-visual-studio_6468cf39a5295.png" height="35" alt="vcpkg"/>
 
 ### Others
 ![Other](https://go-skill-icons.vercel.app/api/icons?i=json,regex)  
